@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://foremoid.github.io/sitemap.html.gz
+Sitemap: https://foremoid.github.io/app/sitemap.html.gz
+Sitemap: https://foremoid.github.io/assets/sitemap.html.gz
+Sitemap: https://foremoid.github.io/css/sitemap.html.gz
+Sitemap: https://foremoid.github.io/includes/sitemap.html.gz
+Sitemap: https://foremoid.github.io/item/sitemap.html.gz
+Sitemap: https://foremoid.github.io/src/sitemap.html.gz
